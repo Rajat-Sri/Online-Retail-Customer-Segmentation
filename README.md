@@ -1,6 +1,6 @@
 # Online-Retail-Customer-Segmentation
 
-Greetings everyone, my name is Rajat Srivastava and I am excited to present my fourth capstone project! In this project, I will be conducting data analysis and visualization while also creating an unsupervised machine learning clustering model. Before diving into the project presentation, let's first briefly go over the problem statement and the steps involved in the process.
+Greetings everyone, I am very excited to present my capstone project! In this project, I will be conducting data analysis and visualization while also creating an unsupervised machine learning clustering model. Before diving into the project presentation, let's first briefly go over the problem statement and the steps involved in the process.
 
 We have been provided with transaction data from a UK-based online retailer that specializes in unique all-occasion gifts. Our main goal is to segment customers into distinct groups based on their purchasing behavior and characteristics, which will allow us to develop targeted marketing strategies to improve customer retention and increase sales.
 
